@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29629389/README.md)
+[README.md]([https://github.com/user-attachments/files/29629389/README.md](https://github.com/zhaoxingchen60-design/QQ-GTK-C-Chat/blob/main/qq-gtk-c/docs/module-technical-guide.md))
 # QQ GTK/C Chat
 
 这是一个面向 openEuler 课程设计的 C 语言 QQ 风格聊天系统示例：一个线程池 Socket 服务器，加一个 GTK4 + GDK + Cairo 图形客户端。
